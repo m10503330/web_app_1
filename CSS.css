@@ -93,6 +93,7 @@ button:hover {
 .footer > h1 {
   color: #2894FF;
   margin-top: 16px;
+  list-style-type: none;
 }
 
 textarea {
