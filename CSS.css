@@ -82,6 +82,7 @@ button:hover {
 }
 
 .footer {
+  list-style-type: none;
   height: 100%;
   -webkit-box-flex: 1;
       -ms-flex: 1;
@@ -93,7 +94,6 @@ button:hover {
 .footer > h1 {
   color: #2894FF;
   margin-top: 16px;
-  list-style-type: none;
 }
 
 textarea {
